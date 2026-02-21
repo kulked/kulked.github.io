@@ -2,88 +2,106 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Kedarnath Kulkarni
+  given: Kedarnath
+  family: Kulkarni
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "🚀"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+role: Director of Product
+email: x17kedarnath@iima.ac.in
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Director of Product at Paytm | ex-Grab | IIM Ahmedabad MBA | 16+ years of global product leadership experience across India, the US, and Singapore. Built and scaled AI/ML-powered ad tech B2B and B2C products.
 
-affiliations:
+#affiliations:
   - name: Tech Corp
     url: https://techcorp.example.com
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: x17kedarnath@iima.ac.in
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/kulked/kulked.github.io
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/kedarnathkulkarni/
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Multi-sided Marketplaces
+  - Personalisation and Recommendation systems
+  - Customer Insights and Segmentation
+  - Team building, Hiring, and Mentorship
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
-    summary: |
+  - degree: MBA
+    institution: IIM Ahmedabad
+    start: 2017-04-01
+    end: 2018-03-31
+  - degree: B.E. Electronics and Communication
+    institution: Siddaganga Institute of Technology, VTU
+    start: 2002-09-22
+    end: 2006-05-31
+   # summary: |
       Focus on software engineering and distributed systems.
       Senior project on distributed caching systems.
-    button:
+   # button:
       text: View Project
       url: https://github.com/alexjohnson/senior-project
       icon: brands/github
 
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: Director of Product, Ads & Offers
+    org: Paytm 
+    start: 2023-12-14
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
+      As the Head of Product for Ads and Offers, set the roadmap and OKRs for ad formats, ads manager, audiences, targeting, ad serving, auction/ ranking, and measurement charters. Delivered yield improvements for Paytm and content relevance for 100M MAUs via machine learning platform initiatives.
+  - role: Lead Product Manager
+    org: Grab
+    start: 2022-02-01
+    end: 2023-06-10
     summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
+      Defined the product roadmap, OKRs, and led execution for the marketing experiences problem area. Drove multi-million dollar ad revenue impact for Grab (the leading mobile super app in SE Asia) and delivered relevant promoted content for 40M MTUs.
+  - role: Senior Product Manager
+    org: LG Ads
+    start: 2018-05-01
+    end: 2021-12-31
     summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
-
+      Drove the consumer insights and monetization initiatives by building ad tech products for activating and measuring display and video media across 120M TVs at Silicon Valley video AI startup Alphonso (now LG Ads Solutions, following investment by electronics giant LG).
+  - role: Senior Manager
+    org: Virtusa
+    start: 2015-02-01
+    end: 2017-02-01
+  - role: Solution Architect
+    org: TCS (Big Data, Analytics, and Information Mgt.)
+    start: 2014-01-01
+    end: 2015-01-01
+  - role: Product Manager
+    org: Bank of America (via TCS)
+    start: 2010-03-01
+    end: 2014-01-01
+    summary: |
+      Built the first-of-its-kind iPad analytics app for the COO and senior sales executives of Bank of America (BofA).  
+  - role: Software Engineer
+    org: Bank of America (via TCS)
+    start: 2006-09-11
+    end: 2010-03-01
+    summary: |
+      Developed software solutions for financial advisors and client managers in the Global Wealth and Investment Management line of business of Bank of America.
+    
 skills:
-  - name: Development
+  - name: Problem Spaces 
     items:
-      - label: TypeScript
+      - label: Auction, Ranking, and Engagement Optimization
         level: 5
-      - label: React
+      - label: AI/ML for Marketplace Monetization
         level: 5
-      - label: Node.js
+      - label: New Revenue Streams & Format Innovation
         level: 5
-      - label: Python
+      - label: Programmatic & DSP Experience
         level: 4
-  - name: DevOps
+      - label: Self-Serve & Platform Scalability
+        level: 4
+  #- name: DevOps
     items:
       - label: Docker
         level: 4
@@ -96,5 +114,20 @@ languages:
   - name: English
     level: 5
     label: Native
+  - name: Kannada
+    level: 5
+    label: Native
+  - name: Hindi
+    level: 5
+    label: Native
+  - name: Marathi
+    level: 4
+    label: Proficient
+   - name: Konkani
+    level: 4
+    label: Proficient
+  - name: French
+    level: 3
+    label: Basic
 
 awards: []
