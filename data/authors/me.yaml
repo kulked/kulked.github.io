@@ -13,9 +13,6 @@ email: x17kedarnath@iima.ac.in
 bio: |
   Director of Product at Paytm | ex-Grab | IIM Ahmedabad MBA | 16+ years of global product leadership experience across India, the US, and Singapore. Built and scaled AI/ML-powered ad tech B2B and B2C products.
 
-#affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
 
 links:
   - icon: at-symbol
@@ -41,13 +38,6 @@ education:
     institution: Siddaganga Institute of Technology, VTU
     start: 2002-09-22
     end: 2006-05-31
-   # summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-   # button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
 
 experience:
   - role: Director of Product, Ads & Offers
@@ -101,14 +91,6 @@ skills:
         level: 4
       - label: Self-Serve & Platform Scalability
         level: 4
-  #- name: DevOps
-    items:
-      - label: Docker
-        level: 4
-      - label: AWS
-        level: 4
-      - label: CI/CD
-        level: 5
 
 languages:
   - name: English
