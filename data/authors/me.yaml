@@ -107,7 +107,7 @@ languages:
   - name: Marathi
     level: 4
     label: Proficient
-   - name: Konkani
+  - name: Konkani
     level: 4
     label: Proficient
   - name: French
