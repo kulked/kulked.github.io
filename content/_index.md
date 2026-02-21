@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2026-01-05
+date: 2026-02-21
 type: landing
 
 design:
@@ -22,10 +22,10 @@ sections:
         enable: true
         prefix: "I build"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "ads and offers monetisation levers"
+          - "AI/ML powered real-time auction and ranking systems"
+          - "self-serve ad platforms"
+          - "high performing empowered teams"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
@@ -60,12 +60,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Full-Stack
-          tag: Full-Stack
-        - name: Frontend
-          tag: Frontend
-        - name: Backend
-          tag: Backend
+        - name: Product Strategy
+          tag: Product Strategy
+        - name: Product Execution
+          tag: Product Execution
+        - name: Product Analytics
+          tag: Product Analytics
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
@@ -82,7 +82,7 @@ sections:
         padding: ["4rem", "0", "4rem", "0"]
   
   # Visual Tech Stack - Icons organized by category
-  - block: tech-stack
+ # - block: tech-stack
     id: skills
     content:
       title: "Tech Stack"
@@ -143,44 +143,35 @@ sections:
     id: experience
     content:
       title: Experience
-      date_format: Jan 2006
+      date_format: Dec 2023
       items:
-        - title: Senior Software Engineer
-          company: Tech Corp
+        - title: Director of Product, Ads and Offers
+          company: Paytm
           company_url: ''
           company_logo: ''
-          location: San Francisco, CA
-          date_start: '2023-01-01'
+          location: Bengaluru, India
+          date_start: '2023-12-01'
           date_end: ''
           description: |2-
-            * Lead development of microservices architecture serving 1M+ users
-            * Improved API response time by 40% through optimization
-            * Mentored team of 5 junior developers
-            * Tech stack: React, Node.js, PostgreSQL, AWS
-        - title: Full-Stack Developer
-          company: Startup Inc
+            * As the Head of Product for Ads and Offers, set the roadmap and OKRs for ad formats, ads manager, audiences, targeting, ad serving, auction/ ranking, and measurement charters. Delivered yield improvements for Paytm and content relevance for 100M MAUs via machine learning platform initiatives.
+        - title: Lead Product Manager, Marketing Experiences
+          company: Grab
           company_url: ''
           company_logo: ''
-          location: Remote
-          date_start: '2021-06-01'
-          date_end: '2022-12-31'
+          location: Singapore
+          date_start: '2022-02-01'
+          date_end: '2023-06-31'
           description: |2-
-            * Built and deployed 3 production applications from scratch
-            * Implemented CI/CD pipeline reducing deployment time by 60%
-            * Collaborated with design team on UI/UX improvements
-            * Tech stack: Next.js, Express, MongoDB, Docker
-        - title: Junior Developer
-          company: Web Agency
+            * Defined the product roadmap, OKRs, and led execution for the marketing experiences problem area. Drove multi-million dollar ad revenue impact for Grab (the leading mobile super app in SE Asia) and delivered relevant promoted content for 40M MTUs.
+        - title: Senior Product Manager
+          company: LG Ads
           company_url: ''
           company_logo: ''
-          location: New York, NY
-          date_start: '2020-01-01'
-          date_end: '2021-05-31'
+          location: Bangalore, Mountain View, New York
+          date_start: '2018-05-01'
+          date_end: '2021-12-31'
           description: |2-
-            * Developed client websites using modern web technologies
-            * Maintained and updated legacy codebases
-            * Participated in code reviews and agile ceremonies
-            * Tech stack: React, WordPress, PHP, MySQL
+            * Drove the consumer insights and monetization initiatives by building ad tech products for activating and measuring display and video media across 120M TVs at Silicon Valley video AI startup Alphonso (now LG Ads Solutions, following investment by electronics giant LG).
     design:
       columns: '1'
       background:
@@ -191,7 +182,7 @@ sections:
         padding: ["4rem", "0", "4rem", "0"]
   
   # Recent Blog Posts
-  - block: collection
+ # - block: collection
     id: blog
     content:
       title: Recent Posts
@@ -222,7 +213,7 @@ sections:
       text: |-
         I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+      email: x17kedarnath@iima.ac.in
       autolink: true
     design:
       columns: '1'
@@ -234,7 +225,7 @@ sections:
         padding: ["4rem", "0", "4rem", "0"]
   
   # CTA Card
-  - block: cta-card
+ # - block: cta-card
     content:
       title: "Open to Opportunities"
       text: |-
