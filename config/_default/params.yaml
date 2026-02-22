@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Kedarnath Kulkarni"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -33,11 +33,11 @@ hugoblox:
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: dark
-    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
+    # Theme pack:  from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      primary: ""                       # Tailwind palette  or hex (e.g., "indigo" or "#6366f1")
       secondary: ""
       neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
@@ -115,8 +115,8 @@ hugoblox:
   # Legal notices and licensing
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
-    # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    # Copyright notice - supports {year}, {}, {license} placeholders
+    notice: "© {year} {}. This work is licensed under {license}"
     license:
       type: cc                          # cc | custom
       allow_derivatives: false
@@ -128,7 +128,7 @@ hugoblox:
   # Search engine optimization - overrides and technical settings
   # ────────────────────────────────────────────────────────────────────────────
   seo:
-    # Browser tab title override (defaults to identity.name if not set)
+    # Browser tab title override (defaults to identity. if not set)
     title: ""
     # For local_business identity type only
     location:
@@ -192,7 +192,7 @@ hugoblox:
       category: ""
       category_id: ""
     disqus:
-      shortname: ""
+      short: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # ANALYTICS
@@ -232,7 +232,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   repository:
     enable: false
-    url: ""                             # e.g., https://github.com/username/repo
+    url: ""                             # e.g., https://github.com/user/repo
     branch: main
     content_dir: content
 
