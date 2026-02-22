@@ -26,8 +26,8 @@ sections:
           - "AI/ML powered real-time auction and ranking systems"
           - "self-serve ad platforms"
           - "high performing empowered teams"
-        type_speed: 70
-        delete_speed: 40
+        type_speed: 80
+        delete_speed: 50
         pause_time: 2500
       cta_buttons:
         - text: View My Work
@@ -90,7 +90,7 @@ sections:
       date_format: Dec 2023
       items:
         - title: Director of Product, Ads and Offers
-          company: Paytm
+          company: Paytm, Bengaluru, India
           company_url: ''
           company_logo: ''
           location: Bengaluru, India
