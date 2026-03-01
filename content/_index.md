@@ -135,7 +135,6 @@ sections:
       text: |-
         I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: x17kedarnath@iima.ac.in
       autolink: true
     design:
       columns: '1'
