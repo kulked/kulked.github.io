@@ -58,7 +58,7 @@ sections:
         folders:
           - projects
       buttons:
-       - name: All
+        - name: All
           tag: '*'
         - name: Product Strategy
           tag: Product Strategy
