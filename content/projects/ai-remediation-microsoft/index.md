@@ -20,7 +20,7 @@ links:
   Delete Option B below if you choose this.
 ============================================================ -->
 
-<iframe
+<!--<iframe
   src="/uploads/AI_Driven_Remediation_for_SMB_Advertisers_at_Microsoft.pdf"
   width="100%"
   height="900px"
@@ -28,7 +28,7 @@ links:
   <p>Your browser does not support iframes.
      <a href="/uploads/AI_Driven_Remediation_for_SMB_Advertisers_at_Microsoft.pdf">Download the PDF</a>
   </p>
-</iframe>
+</iframe>-->
 
 ---
 
@@ -37,7 +37,7 @@ links:
   Delete Option A above and uncomment this block if you prefer it.
 ============================================================ -->
 
-<!--
+
 
 ## Context
 
