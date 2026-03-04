@@ -7,9 +7,6 @@
 hugoblox:
   schema: "2.0"
 
-sharing:
-  enable: false
-
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITY
   # Site-level branding (for people/profiles, use the author system in content/authors/)
