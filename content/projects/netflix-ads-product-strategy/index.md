@@ -1,6 +1,7 @@
 
 ---
 title: 'Netflix Ads — Product Strategy'
+share: false
 date: 2025-01-15
 summary: >
   End-to-end ad product strategy for Netflix's ads-supported tier — covering
