@@ -52,20 +52,22 @@ sections:
     id: projects
     content:
       title: "Featured Projects"
-      subtitle: "A selection of my recent work"
+      subtitle: "A selection of my PM work on hypothetical scenarios at real world companies"
       count: 0
       filters:
         folders:
           - projects
       buttons:
-        - name: All
+       - name: All
           tag: '*'
         - name: Product Strategy
           tag: Product Strategy
-        - name: Product Execution
-          tag: Product Execution
-        - name: Product Analytics
-          tag: Product Analytics
+        - name: Product Discovery
+          tag: Product Discovery
+        - name: Product Launch
+          tag: Product Launch
+        - name: Analytical Reasoning
+          tag: Analytical Reasoning
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
@@ -74,6 +76,7 @@ sections:
       #   link: "/work/"  # Custom URL
     design:
       columns: 3
+      view: card
       background:
         color:
           light: "#ffffff"
