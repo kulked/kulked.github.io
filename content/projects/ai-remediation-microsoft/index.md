@@ -1,5 +1,6 @@
 ---
 title: 'AI-Driven Remediation for SMB Advertisers at Microsoft'
+share: false
 date: 2025-02-01
 summary: >
   Product discovery document for an AI/Copilot-powered auto-fix flow that
