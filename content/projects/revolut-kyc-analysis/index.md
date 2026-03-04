@@ -1,5 +1,6 @@
 ---
 title: 'Declining KYC Pass Rate at Revolut — Analysis & Fixes'
+share: false
 date: 2025-03-01
 summary: >
   Data-driven analytical breakdown of a declining KYC pass rate at Revolut.
