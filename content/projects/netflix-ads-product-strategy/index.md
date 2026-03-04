@@ -26,7 +26,7 @@ links:
 <!-- If the pdf-embed shortcode is not available in your theme,
      use a raw HTML iframe instead: -->
 
-<iframe
+<iframe>
   src="/uploads/Netflix_Ads_Product_Strategy.pdf"
   width="100%"
   height="900px"
