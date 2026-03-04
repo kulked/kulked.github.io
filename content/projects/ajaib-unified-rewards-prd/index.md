@@ -1,5 +1,6 @@
 ---
 title: 'Ajaib Unified Rewards System (Genie) — PRD'
+share: false
 date: 2025-08-01
 summary: >
   Product Requirements Document for Genie — Ajaib's unified rewards engine
