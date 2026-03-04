@@ -21,7 +21,7 @@ links:
   Delete Option B below if you choose this.
 ============================================================ -->
 
-<iframe
+<!--<iframe
   src="/uploads/Netflix_Ads_Product_Strategy.pdf"
   width="100%"
   height="900px"
@@ -29,7 +29,8 @@ links:
  <!-- <p>Your browser does not support iframes.
      <a href="/uploads/Netflix_Ads_Product_Strategy.pdf">Download the PDF</a>
   </p>-->
-</iframe>
+<!--</iframe>
+-->
 
 ---
 
@@ -39,7 +40,7 @@ links:
   Delete Option A above if you choose this.
 ============================================================ -->
 
-<!--
+
 
 ## Overview
 
@@ -149,4 +150,4 @@ Netflix's flywheel of content investment.
 
 *By Kedarnath Kulkarni · IIM Ahmedabad MBA · Director of Product, Paytm*
 
--->
+
