@@ -1,5 +1,6 @@
 ---
 title: 'Ajaib Rewards System (Genie) — Migration & Launch Plan'
+share: false
 date: 2025-08-15
 summary: >
   8-week migration and launch plan for Genie — Ajaib's unified rewards system.
