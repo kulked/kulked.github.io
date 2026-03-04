@@ -8,9 +8,9 @@ summary: >
 tags:
   - Product Discovery
 links:
-  - icon: file-pdf
+  - 
     icon_pack: fas
-    name: View PDF
+    name: View Detailed PDF
     url: /uploads/AI_Driven_Remediation_for_SMB_Advertisers_at_Microsoft.pdf
 ---
 
