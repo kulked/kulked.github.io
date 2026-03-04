@@ -21,7 +21,7 @@ links:
   Delete Option B below if you choose this.
 ============================================================ -->
 
-{{< pdf-embed file="/uploads/Netflix_Ads_Product_Strategy.pdf" >}}
+<!--{{< pdf-embed file="/uploads/Netflix_Ads_Product_Strategy.pdf" >}} -->
 
 <!-- If the pdf-embed shortcode is not available in your theme,
      use a raw HTML iframe instead: -->
