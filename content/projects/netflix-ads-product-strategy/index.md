@@ -85,7 +85,7 @@ Netflix's flywheel of content investment.
 
 ---
 
-## Key Ideas (GROW Framework)
+## Key Ideas
 
 | Pillar | Description |
 |---|---|
