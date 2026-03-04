@@ -9,9 +9,9 @@ summary: >
 tags:
   - Product Strategy
 links:
-  - icon: file-pdf
+  - 
     icon_pack: fas
-    name: View PDF
+    name: View Detailed PDF
     url: /uploads/Netflix_Ads_Product_Strategy.pdf
 ---
 
@@ -148,6 +148,6 @@ Netflix's flywheel of content investment.
 
 ---
 
-*By Kedarnath Kulkarni · IIM Ahmedabad MBA · Director of Product, Paytm*
+*Created By Kedarnath Kulkarni · IIM Ahmedabad MBA · Director of Product, Paytm*
 
 
