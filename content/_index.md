@@ -23,8 +23,8 @@ sections:
         prefix: "I build"
         strings:
           - "ads and offers monetisation levers"
-          - "AI/ML powered auction and ranking systems"
-          - "self-serve ad platforms"
+          - "AI/ML ranking platforms for marketplaces"
+          - "self-serve ad ecosystems"
           - "high performing empowered teams"
         type_speed: 80
         delete_speed: 50
