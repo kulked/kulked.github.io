@@ -66,8 +66,8 @@ sections:
           tag: Product Discovery
         - name: Product Launch
           tag: Product Launch
-        - name: Analytical Reasoning
-          tag: Analytical Reasoning
+        - name: Product Analytics
+          tag: Product Analytics
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
