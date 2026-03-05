@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Full-Stack Product Leader"
     # Site meta description for search engines and social sharing
-    description: "Product Leader portfolio showcasing skills across Product Strategy, Discovery, Launch, and Analytical chops. Built with Hugo Blox."
+    description: "Product Leader portfolio showcasing skills across Product Strategy, Discovery, Launch, and Analytical chops."
     # Social accounts (used for meta tags like Twitter Cards)
     #social:
      # twitter: "yourusername"              # Twitter/X handle for Twitter Cards (without @)
