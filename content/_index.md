@@ -90,7 +90,7 @@ sections:
     id: experience
     content:
       title: Experience
-      date_format: Dec 2023
+      date_format: 2023
       items:
         - title: Director of Product, Ads and Offers
           company: Paytm, Bengaluru, India
