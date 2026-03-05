@@ -159,7 +159,6 @@ Conversational remediation flow: *"Which of my ads are not approved?"* →
 
 ---
 
-*By Kedarnath Kulkarni · IIM Ahmedabad MBA · Director of Product, Paytm*
+*Created By Kedarnath Kulkarni · IIM Ahmedabad MBA · Director of Product, Paytm*
 
--->
 
