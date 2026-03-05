@@ -8,7 +8,7 @@ summary: >
   failures, breaks down issues by document type and nationality, and
   proposes targeted fixes with supporting evidence.
 tags:
-  - Analytical Reasoning
+  - Product Analytics
 links:
   - 
     icon_pack: fas
